@@ -2,6 +2,8 @@
 
 * [business-task.md](https://github.com/Sergeev-Ilya/ai-naition-database-practise-1/blob/main/business-task.md) - первичная формулировка задачи
 * [critical-user-journeys.md](https://github.com/Sergeev-Ilya/ai-naition-database-practise-1/blob/main/critical-user-journeys.md) - CUJ
+* [ADR.md](https://github.com/Sergeev-Ilya/ai-naition-database-practise-1/blob/main/ADR.md) - ADR с выбором стека
+* [grounding.md](https://github.com/Sergeev-Ilya/ai-naition-database-practise-1/blob/main/grounding.md) - Grounding
 * [elephantAndGoldfish/specReview/next-version.md](https://github.com/Sergeev-Ilya/ai-naition-database-practise-1/blob/main/elephantAndGoldfish/specReview/next-version.md) - предлагаемые* изменения spec после первого ревью.
 * [openspec/changes/contact-database/proposal.md](https://github.com/Sergeev-Ilya/ai-naition-database-practise-1/blob/main/openspec/changes/contact-database/proposal.md) - основной spec проекта c sub-spec внутри папки specs. (с внесенными предложениями specReview от E&G)
 
