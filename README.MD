@@ -11,3 +11,5 @@ openspec/changes/contact-database/proposal.md - основной spec проек
 elephantAndGoldfish/finalReviewers - core-agent.md промпт для Elephant при ревью, оставльные промпты для суб-агентов при ревью
 
 
+ При решении задачи использовал только openspec-explore.
+
